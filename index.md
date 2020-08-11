@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages ok
 
 You can use the [editor on GitHub](https://github.com/tinybright/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
